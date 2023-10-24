@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Khuat Minh a.k.a KhuaMin
-🔭 I’m currently student at PTIT.
+🔭 I’m currently student at PTIT. \n
 🌱 I’m currently learning C/C++/C#/Python/Js.
 <!--
 **khuatminh/khuatminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
