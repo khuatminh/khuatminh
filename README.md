@@ -1,5 +1,5 @@
 # 💫 About Me:
- <br>🔭 I’m currently student at PTIT, Hanoi.<br><br>📫 I'm interested in Web/Mobile Application, Competitive Programming and Automation Tools.<br><br>🌱 I’m currently learning C/C++/C#/Python/Js.
+ <br>🔭 I’m currently student at PTIT, Hanoi.<br><br>📫 I'm interested in Web/Mobile Application, Competitive Programming and Automation Tools.<br><br>🌱 I’m currently learning C/C++/C#/Js
 
 
 ## 🌐 Socials:
